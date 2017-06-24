@@ -1,0 +1,27 @@
+{
+    "name": "sashsvamir/yii2-js-scrollreveal",
+    "description": "ScrollReveal js yii2 asset",
+    "type": "yii2-extension",
+    "keywords": [
+        "sashsvamir",
+        "yii2",
+        "asset",
+        "scrollreveal"
+    ],
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": "^2.0",
+        "bower-asset/scrollreveal": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Alexander Shchukin",
+            "email": "alexander@shykin.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sashsvamir\\scrollreveal\\": ""
+        }
+    }
+}
